@@ -1,0 +1,79 @@
+li {
+    display: inline;
+    margin-left: 2%;
+}
+li a {
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.7);
+    font-size: 120%;
+}
+.menu1 {
+    padding-left: 50%;
+}
+.container {
+    background-image: url("/img/anh3_rpqk.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    position: relative;
+}
+.content {
+    position: absolute;
+    top: 30%;
+    left: 5%;
+    color: rgb(10, 212, 219);
+}
+h1 {
+    font-size: 250%;
+    margin-bottom: -1%;
+}
+.content p{
+    font-size: 120%;
+}
+.content1 {
+    background-color: darksalmon;
+    height: 900px;
+    margin-top: -2%;
+}
+.main-content1 {
+    margin-left: 10%;
+    padding-top: 3%;
+}
+h2 {
+    font-size: 200%;
+}
+img {
+    width: 98%;
+}
+.img-bot {
+    width: 33%;
+    float: left;
+}
+.img-bot a{
+    text-decoration: none;
+    color: black;
+}
+.content2 {
+    background-color: rosybrown;
+    margin-top: -2%;
+}
+.content2 h2{
+    padding-top: 1%;
+}
+footer {
+    background-color: slategray;
+    height: 50px;
+    margin-top: -2%;
+}
+footer p {
+    margin-left: 40%;
+    padding-top: 1%;
+}
+h1, h2, h3 {
+    font-family: 'Lato', sans-serif;
+}
+.clearfix::after{
+    content: "";
+    display: table;
+    clear: both;
+}

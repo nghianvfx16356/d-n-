@@ -1,0 +1,38 @@
+@media only screen and (max-width: 767px){
+    .menu1 {
+        padding-left: 20%;
+    }
+    li a {
+        font-size: 120%;
+    }
+    .content img {
+        width: 100%;
+        margin-left: 0;
+    }
+    .img {
+        margin-left: 0;
+        width: 90%;
+    }
+    .container-top{
+        background-color: white;
+    }
+}
+@media only screen and (min-width: 768px) and (max-width: 991px){
+    .menu1 {
+        padding-left: 20%;
+    }
+    li a {
+        font-size: 120%;
+    }
+    .content img {
+        width: 100%;
+        margin-left: 0;
+    }
+    .img {
+        margin-left: 0;
+        width: 90%;
+    }
+    .container-top{
+        background-color: white;
+    }
+}

@@ -1,0 +1,43 @@
+@media only screen and (max-width: 767px){
+    .menu1 {
+        padding-left: 30%;
+    }
+    li a {
+        font-size: 100%;
+    }
+    h1 {
+        font-size: 160%;
+        color: black;
+    }
+    .container {
+        background-color: white;
+    }
+    .container img {
+        width: 100%;
+    }
+    .img {
+        margin-left: 0;
+    }
+}
+@media only screen and (min-width: 768px) and (max-width: 991px){
+    .menu1 {
+        padding-left: 30%;
+    }
+    li a {
+        font-size: 130%;
+    }
+    h1 {
+        font-size: 160%;
+        color: black;
+    }
+    .container {
+        background-color: white;
+    }
+    .container img {
+        width: 100%;
+    }
+    .img {
+        margin-left: 0;
+    }
+
+}
